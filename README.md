@@ -1,5 +1,3 @@
-Tileset (png) and Tilemap (csv) files must be included in the same folder as the main exe file.
-
 ### Editor controls:
 * Click tiles right of map to select
 * Click to place individual tiles or click and drag to "paint" multiple into the area.
