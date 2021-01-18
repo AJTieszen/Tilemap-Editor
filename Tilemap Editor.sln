@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tilemap Editor", "Tilemap Editor\Tilemap Editor.vcxproj", "{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Debug|x64.ActiveCfg = Debug|x64
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Debug|x64.Build.0 = Debug|x64
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Debug|x86.Build.0 = Debug|Win32
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Release|x64.ActiveCfg = Release|x64
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Release|x64.Build.0 = Release|x64
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Release|x86.ActiveCfg = Release|Win32
+		{A8660C39-5D76-42E7-AAC8-26728AE0ADAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83167F77-1DCC-42BE-9497-25C136A226F7}
+	EndGlobalSection
+EndGlobal
